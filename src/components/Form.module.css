@@ -1,0 +1,13 @@
+.input {
+  border-radius: 1rem;
+  border: 1px solid black;
+  text-align: center;
+  }
+  .error{
+    color: red;
+    text-align: center;
+  }
+  .button{
+    border-radius: 1rem;
+    border: 1px solid black;
+  }
